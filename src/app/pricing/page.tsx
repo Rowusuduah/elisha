@@ -21,7 +21,7 @@ export default function PricingPage() {
       <section className="max-w-5xl mx-auto px-6 py-16 text-center">
         <h2 className="text-3xl font-bold text-stone-900">Pricing That Pays For Itself</h2>
         <p className="mt-3 text-stone-600">
-          Average client discovers $127K in hidden resources. The ROI is obvious.
+          Average client discovers $167K in hidden resources. The ROI is obvious.
         </p>
       </section>
 

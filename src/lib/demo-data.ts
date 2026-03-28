@@ -16,7 +16,7 @@ import type {
 
 export const DEMO_DASHBOARD: DashboardSummary = {
   cash_position: 23847.5,
-  hidden_resources_total: 127350,
+  hidden_resources_total: 167320,
   hidden_resources_count: 8,
   upcoming_crises: 2,
   reserve_balance: 8200,
@@ -202,7 +202,7 @@ export const DEMO_FORECASTS: ForecastPoint[] = [
   { forecast_date: "2026-05-05", period: "60", scenario: "likely", predicted_balance: -8600, predicted_inflow: 68000, predicted_outflow: 100447, confidence: 0.65, crisis_flag: true, crisis_description: "Still negative. AR collection is the lifeline." },
   { forecast_date: "2026-05-05", period: "60", scenario: "best", predicted_balance: 22400, predicted_inflow: 82000, predicted_outflow: 83447, confidence: 0.5, crisis_flag: false, crisis_description: null },
   { forecast_date: "2026-06-05", period: "90", scenario: "worst", predicted_balance: -52800, predicted_inflow: 78000, predicted_outflow: 154647, confidence: 0.6, crisis_flag: true, crisis_description: "Business cannot survive 90 days at current trajectory without intervention." },
-  { forecast_date: "2026-06-05", period: "90", scenario: "likely", predicted_balance: -12400, predicted_inflow: 112000, predicted_outflow: 148247, confidence: 0.55, crisis_flag: true, crisis_description: "Recoverable if hidden resources are activated. $127K identified." },
+  { forecast_date: "2026-06-05", period: "90", scenario: "likely", predicted_balance: -12400, predicted_inflow: 112000, predicted_outflow: 148247, confidence: 0.55, crisis_flag: true, crisis_description: "Recoverable if hidden resources are activated. $167K identified." },
   { forecast_date: "2026-06-05", period: "90", scenario: "best", predicted_balance: 38600, predicted_inflow: 142000, predicted_outflow: 127247, confidence: 0.4, crisis_flag: false, crisis_description: null },
 ];
 

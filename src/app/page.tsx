@@ -49,7 +49,7 @@ export default function Home() {
           </Link>
         </div>
         <p className="mt-4 text-sm text-stone-500">
-          Average discovery: $127K in hidden resources. No credit card required.
+          Average discovery: $167K in hidden resources. No credit card required.
         </p>
       </section>
 
@@ -63,7 +63,7 @@ export default function Home() {
             </p>
           </div>
           <div>
-            <p className="text-4xl font-bold text-elisha-700">$127K</p>
+            <p className="text-4xl font-bold text-elisha-700">$167K</p>
             <p className="mt-2 text-stone-600">
               average hidden resources in a business under $5M revenue
             </p>
@@ -185,7 +185,7 @@ export default function Home() {
           Pricing That Pays For Itself
         </h3>
         <p className="mt-2 text-center text-stone-600">
-          Average client discovers $127K in hidden resources. The ROI is obvious.
+          Average client discovers $167K in hidden resources. The ROI is obvious.
         </p>
         <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6">
           <div className="bg-white rounded-lg border border-stone-200 p-6 text-center">
